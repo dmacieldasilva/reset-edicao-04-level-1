@@ -7,4 +7,4 @@ Cite 2 técnicas de teste de caixa preta.
 
 O que você entende por testes de caixa preta e testes de caixa branca?
 - Caixa preta são entradas e saidas sem referência a sua estrutura interna
-- Caixa branca
+- Caixa branca o testador tem acesso à estrutura interna da aplicação
