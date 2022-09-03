@@ -1,3 +1,4 @@
+Aula 01
 Exercício:
 Cite 2 técnicas de teste de caixa preta.
 - Diagrama de estado
@@ -5,4 +6,5 @@ Cite 2 técnicas de teste de caixa preta.
 - Tabela de decisão
 
 O que você entende por testes de caixa preta e testes de caixa branca?
-
+- Caixa preta são entradas e saidas sem referência a sua estrutura interna
+- Caixa branca
